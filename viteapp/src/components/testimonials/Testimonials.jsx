@@ -71,7 +71,7 @@ const slideBackward = ()=>{
                         <div className="user-info">
                             <img src={user_4} alt="" />
                             <div>
-                            <h3>Bryan Adams</h3>
+                            <h3>Harry Potter</h3>
                             <span>Edusity, USA</span>
                             </div>
                         </div>
